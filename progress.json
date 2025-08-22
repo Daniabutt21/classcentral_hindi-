@@ -1,0 +1,457 @@
+{
+  "https://www.classcentral.com/": {
+    "filename": "index.html",
+    "status": "completed",
+    "timestamp": 1755812681.391488
+  },
+  "https://www.classcentral.com/rankings": {
+    "filename": "rankings.html",
+    "status": "completed",
+    "timestamp": 1755813214.3083708
+  },
+  "https://www.classcentral.com/collections": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.332248
+  },
+  "https://www.classcentral.com/subjects": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.340729
+  },
+  "https://www.classcentral.com/subject/cs": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.352684
+  },
+  "https://www.classcentral.com/subject/health": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.364558
+  },
+  "https://www.classcentral.com/subject/maths": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.3739882
+  },
+  "https://www.classcentral.com/subject/business": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.381956
+  },
+  "https://www.classcentral.com/subject/humanities": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.390718
+  },
+  "https://www.classcentral.com/subject/engineering": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.39905
+  },
+  "https://www.classcentral.com/subject/science": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.407611
+  },
+  "https://www.classcentral.com/subject/education": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.415987
+  },
+  "https://www.classcentral.com/subject/social-sciences": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.424695
+  },
+  "https://www.classcentral.com/subject/art-and-design": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.43345
+  },
+  "https://www.classcentral.com/subject/data-science": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.441664
+  },
+  "https://www.classcentral.com/subject/programming-and-software-development": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.449923
+  },
+  "https://www.classcentral.com/subject/personal-development": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.458574
+  },
+  "https://www.classcentral.com/subject/infosec": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.467465
+  },
+  "https://www.classcentral.com/universities": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.4759932
+  },
+  "https://www.classcentral.com/report/": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.484268
+  },
+  "https://www.classcentral.com/collection/top-free-online-courses": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.4923232
+  },
+  "https://www.classcentral.com/report/most-popular-online-courses/": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.50043
+  },
+  "https://www.classcentral.com/report/best-free-online-courses-2022/": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.508435
+  },
+  "https://www.classcentral.com/report/best-free-online-courses-2021/": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.5170088
+  },
+  "https://www.classcentral.com/report/most-popular-courses-2024/": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.525368
+  },
+  "https://www.classcentral.com/report/most-popular-courses-2023/": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.533612
+  },
+  "https://www.classcentral.com/collection/ivy-league-moocs": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.542214
+  },
+  "https://www.classcentral.com/report/coursera-free-online-courses/": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.550482
+  },
+  "https://www.classcentral.com/report/free-certificates/": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.558934
+  },
+  "https://www.classcentral.com/report/free-google-certifications/": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.5669382
+  },
+  "https://www.classcentral.com/subject/ai": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.574987
+  },
+  "https://www.classcentral.com/subject/algorithms-and-data-structures": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.586663
+  },
+  "https://www.classcentral.com/subject/internet-of-things": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.5942779
+  },
+  "https://www.classcentral.com/subject/information-technology": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.6037
+  },
+  "https://www.classcentral.com/subject/computer-networking": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.613178
+  },
+  "https://www.classcentral.com/subject/machine-learning": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.622598
+  },
+  "https://www.classcentral.com/subject/devops": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.6323268
+  },
+  "https://www.classcentral.com/subject/deep-learning": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.642771
+  },
+  "https://www.classcentral.com/subject/cryptography": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.650956
+  },
+  "https://www.classcentral.com/subject/quantum-computing": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.659437
+  },
+  "https://www.classcentral.com/subject/hci": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.667968
+  },
+  "https://www.classcentral.com/subject/distributed-systems": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.6765041
+  },
+  "https://www.classcentral.com/subject/blockchain": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.685272
+  },
+  "https://www.classcentral.com/subject/operating-systems": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.694328
+  },
+  "https://www.classcentral.com/subject/computer-graphics": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.702407
+  },
+  "https://www.classcentral.com/subject/automata": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.711466
+  },
+  "https://www.classcentral.com/subject/compilers": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.7201731
+  },
+  "https://www.classcentral.com/subject/scada": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.7292202
+  },
+  "https://www.classcentral.com/subject/mainframe": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.7389371
+  },
+  "https://www.classcentral.com/subject/digital-image-processing": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.7482471
+  },
+  "https://www.classcentral.com/subject/nutrition-and-wellness": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.758901
+  },
+  "https://www.classcentral.com/subject/disease-and-disorders": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.767182
+  },
+  "https://www.classcentral.com/subject/public-health": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.775855
+  },
+  "https://www.classcentral.com/subject/health-care": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.784514
+  },
+  "https://www.classcentral.com/subject/nursing": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.793448
+  },
+  "https://www.classcentral.com/subject/anatomy": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.802546
+  },
+  "https://www.classcentral.com/subject/veterinary-science": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.811291
+  },
+  "https://www.classcentral.com/subject/cme": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.82509
+  },
+  "https://www.classcentral.com/subject/blood-pressure": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.833699
+  },
+  "https://www.classcentral.com/subject/wellbeing": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.842058
+  },
+  "https://www.classcentral.com/subject/women-s-health": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.8503838
+  },
+  "https://www.classcentral.com/subject/dysphagia": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.858832
+  },
+  "https://www.classcentral.com/subject/occupational-therapy": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.8675342
+  },
+  "https://www.classcentral.com/subject/hygiene": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.8758988
+  },
+  "https://www.classcentral.com/subject/healthcare-innovation": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.884293
+  },
+  "https://www.classcentral.com/subject/music-therapy": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.89425
+  },
+  "https://www.classcentral.com/subject/holistic-health": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.9440389
+  },
+  "https://www.classcentral.com/subject/ayurveda": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.956425
+  },
+  "https://www.classcentral.com/subject/herbalism": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.9654999
+  },
+  "https://www.classcentral.com/subject/massage-therapy": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.975601
+  },
+  "https://www.classcentral.com/subject/statistics": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.984264
+  },
+  "https://www.classcentral.com/subject/foundations-of-mathematics": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813214.9932501
+  },
+  "https://www.classcentral.com/subject/calculus": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813215.001826
+  },
+  "https://www.classcentral.com/subject/discrete-mathematics": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813215.011839
+  },
+  "https://www.classcentral.com/subject/trigonometry": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813215.021169
+  },
+  "https://www.classcentral.com/subject/geometry": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813215.030093
+  },
+  "https://www.classcentral.com/subject/algebra": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813215.039098
+  },
+  "https://www.classcentral.com/subject/precalculus": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813215.048726
+  },
+  "https://www.classcentral.com/subject/number-theory": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813215.058342
+  },
+  "https://www.classcentral.com/subject/combinatorics": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813215.0677261
+  },
+  "https://www.classcentral.com/subject/mathematical-logic": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813215.077028
+  },
+  "https://www.classcentral.com/subject/linear-programming": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813215.086245
+  },
+  "https://www.classcentral.com/subject/graph-theory": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813215.110069
+  },
+  "https://www.classcentral.com/subject/set-theory": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813215.1242251
+  },
+  "https://www.classcentral.com/subject/group-theory": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755813215.134
+  },
+  "https://www.classcentral.com/subject/differential-equations": {
+    "filename": "subject_differential-equations.html",
+    "status": "completed",
+    "timestamp": 1755814198.520663
+  },
+  "https://www.classcentral.com/subject/polynomials": {
+    "filename": "subject_polynomials.html",
+    "status": "completed",
+    "timestamp": 1755815185.248308
+  },
+  "https://www.classcentral.com/subject/integration": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755861670.860031
+  },
+  "https://www.classcentral.com/subject/mathematical-analysis": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755862780.520982
+  },
+  "https://www.classcentral.com/subject/mathematical-thinking": {
+    "filename": "",
+    "status": "failed",
+    "timestamp": 1755871383.531649
+  },
+  "https://www.classcentral.com/subject/management-and-leadership": {
+    "filename": "subject_management-and-leadership.html",
+    "status": "completed",
+    "timestamp": 1755820109.0687182
+  }
+}
